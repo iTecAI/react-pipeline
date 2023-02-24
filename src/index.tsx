@@ -1,3 +1,3 @@
-export default function Pipeline() {
+export function Pipeline() {
     return <></>;
 }

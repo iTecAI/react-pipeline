@@ -7,6 +7,7 @@
     "author": "Dax Harris <matteovh@gmail.com>",
     "license": "MIT",
     "private": false,
+    "types": "./dist/index.d.ts",
     "exports": {
         "require": "./dist/react-pipeline.cjs",
         "default": "./dist/react-pipeline.modern.js"
